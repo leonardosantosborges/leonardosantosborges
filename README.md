@@ -10,26 +10,16 @@ Minha abordagem vai além do código: trabalho com visão estratégica, buscando
 
 Sou movido por evolução constante, excelência técnica e construção de softwares que gerem valor, escalabilidade e vantagem competitiva.
 
-<p align="center">
+<p align="left">
 
-  <!-- ESTRELAS -->
-  <a href="https://github.com/leonardosantosborges?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/leonardosantosborges?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&logoColor=white"
+  <!-- Sequência atual de commits no GitHub -->
+  <a href="https://github.com/leonardosantosborges">
+    <img
+      alt="GitHub Streak"
+      title="Sequência atual de commits no GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
     />
   </a>
-
-  <!-- SEGUIDORES -->
-  <a href="https://github.com/leonardosantosborges?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/leonardosantosborges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-
   <!-- TOTAL COMMITS -->
   <a href="https://github.com/leonardosantosborges">
     <img
@@ -38,6 +28,23 @@ Sou movido por evolução constante, excelência técnica e construção de soft
       src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Commits&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
     />
   </a>
+
+<br>
+
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/leonardo-borges-79722825b/">
+    <img
+      alt="Linkedin"
+      title="Linkedin"
+      src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logo=mention&logoColor=white"
+    />
+  </a>
+  <!-- Localização -->
+  <img
+      alt="Localização"
+      title="Localização"
+      src="https://custom-icon-badges.demolab.com/badge/São Paulo-BRasil-green?style=for-the-badge&logo=location&logoColor=white"
+    />
 
 </p>
 
