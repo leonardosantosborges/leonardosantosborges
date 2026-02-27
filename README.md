@@ -13,7 +13,7 @@ Minha abordagem une excelência técnica e visão estratégica, transformando re
 <p align="left">
 
   <!-- Sequência atual de commits no GitHub -->
-  <a href="https://github.com/leonardosantosborges">
+  <a target="_blank" href="https://github.com/leonardosantosborges">
     <img
       alt="GitHub Streak"
       title="Sequência atual de commits no GitHub"
@@ -21,7 +21,7 @@ Minha abordagem une excelência técnica e visão estratégica, transformando re
     />
   </a>
   <!-- TOTAL COMMITS -->
-  <a href="https://github.com/leonardosantosborges">
+  <a target="_blank" href="https://github.com/leonardosantosborges">
     <img
       alt="Total Commits"
       title="Total de commits no GitHub"
@@ -32,7 +32,7 @@ Minha abordagem une excelência técnica e visão estratégica, transformando re
 <br>
 
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/leonardo-borges-79722825b/">
+  <a target="_blank" href="https://www.linkedin.com/in/leonardo-borges-79722825b/">
     <img
       alt="Linkedin"
       title="Linkedin"
