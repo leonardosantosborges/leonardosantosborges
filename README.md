@@ -20,12 +20,12 @@ Minha abordagem une excelência técnica e visão estratégica, transformando re
       src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
     />
   </a>
-  <!-- TOTAL COMMITS -->
+  <!-- TOTAL contribuições -->
   <a target="_blank" href="https://github.com/leonardosantosborges">
     <img
-      alt="Total Commits"
-      title="Total de commits no GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Contribuições&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
+      alt="Total contribuições"
+      title="Total de contribuições no GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Contribuicoes&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
     />
   </a>
 
