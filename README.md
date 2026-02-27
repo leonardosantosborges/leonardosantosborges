@@ -25,7 +25,7 @@ Minha abordagem une excelência técnica e visão estratégica, transformando re
     <img
       alt="Total Commits"
       title="Total de commits no GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Commits&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Contribuições&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dleonardosantosborges%26type%3Djson"
     />
   </a>
 
