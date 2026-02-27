@@ -2,13 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Leonardo Santos Borges, Desenvolvedor Full-Stack com forte atuação em PHP, Laravel, Symfony e React, focado na construção de aplicações web escaláveis, performáticas e orientadas a resultados de negócio.
+Sou Leonardo Santos Borges, Desenvolvedor Full-Stack com atuação em PHP, Laravel, Symfony, React e WordPress, focado na construção de aplicações web escaláveis, performáticas e orientadas a resultados de negócio.
 
-Tenho experiência no desenvolvimento de soluções completas, atuando tanto no back-end quanto no front-end, com domínio de APIs, modelagem e integração com bancos de dados como PostgreSQL e SQL, além da aplicação de boas práticas como testes unitários, testes de integração, refatoração de código e versionamento estruturado.
+Tenho experiência no desenvolvimento de soluções completas, desde a criação de APIs e modelagem de dados até interfaces modernas e responsivas. Atuo com integração de sistemas, bancos de dados como PostgreSQL e SQL, além da aplicação de boas práticas como testes, refatoração e versionamento estruturado.
 
-Minha abordagem vai além do código: trabalho com visão estratégica, buscando otimização de processos, melhoria contínua e impacto real para usuários e empresas. Tenho facilidade em atuar em ambientes ágeis, colaborar em equipe e transformar requisitos complexos em soluções técnicas eficientes e sustentáveis.
+No ecossistema WordPress, desenvolvo temas personalizados, portais e landing pages escaláveis, com integrações a APIs e gateways de pagamento, sempre priorizando performance, organização e evolução contínua.
 
-Sou movido por evolução constante, excelência técnica e construção de softwares que gerem valor, escalabilidade e vantagem competitiva.
+Minha abordagem une excelência técnica e visão estratégica, transformando requisitos complexos em soluções eficientes que geram valor real para usuários e empresas.
 
 <p align="left">
 
